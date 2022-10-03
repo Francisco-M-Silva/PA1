@@ -1,0 +1,2 @@
+public class PROJ1 {
+}
